@@ -1,3 +1,5 @@
+### Hi there 👋
+
 ## Github
 <!-- Only commenting out because it's cool, despite it didn't reflect my top languages and true stats becuz only consider public repos.  -->
 [![Luiz's github stats](https://github-readme-stats.vercel.app/api?username=ailtonvivaz&show_icons=true)](https://github.com/ailtonvivaz)
@@ -5,20 +7,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ailtonvivaz&layout=compact)](https://github.com/ailtonvivaz)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ailtonvivaz&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-### Hi there 👋
-
-<!--
-**ailtonvivaz/ailtonvivaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
